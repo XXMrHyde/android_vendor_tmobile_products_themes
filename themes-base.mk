@@ -3,7 +3,7 @@ PRODUCT_PACKAGES += \
 	ThemeChooser \
 	com.tmobile.themes \
 	Androidian \
-    AlphaBlueModV1 \
+    AlphaBlueModV2 \
 	Cyanbread
 
 PRODUCT_COPY_FILES := \
